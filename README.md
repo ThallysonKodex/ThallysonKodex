@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThallysonKodex
-- 👀 I’m interested in Game Development without engines.
-- 🌱 I’m currently learning pygame and data structures and algorithms with python
-- 💞️ I’m looking to collaborate with the Game Dev community.
+- 👀 I’m interested in Software and Game Development.
+- 🌱 I’m currently learning Python and Data Structures and algorithms.
+- 💞️ I’m looking to collaborate with all sorts of communities in the programming world.
 - 📫 How to reach me thallysontrader@gmail.com
 
 <!---
