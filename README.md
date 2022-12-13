@@ -14,6 +14,5 @@
 </picture>
 </div>
 
-
-![Snake animation](https://github.com/ThallysonKodex/ThallysonKodex/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/ThallysonKodex/ThallysonKodex/blob/output/github-contribution-grid-snake.svg)
 
