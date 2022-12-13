@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @ThallysonKodex
-- 👀 I’m interested in Software and Game Development.
-- 🌱 I’m currently learning Python and Data Structures and algorithms.
-- 💞️ I’m looking to collaborate with all sorts of communities in the programming world.
-- 📫 How to reach me thallysontrader@gmail.com
+<h2> About me </h2>
 
-<!---
-ThallysonKodex/ThallysonKodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ThallysonKodex&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ThallysonKodex&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ThallysonKodex&show_icons=true" />
+</picture>
+</div>
+
+<div align="center">
+![Snake animation](https://github.com/ThallysonKodex/ThallysonKodex/blob/output/github-contribuition-grid-snake.svg)
+</div>
