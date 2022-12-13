@@ -14,6 +14,6 @@
 </picture>
 </div>
 
-<div align="center">
+
 ![Snake animation](https://github.com/ThallysonKodex/ThallysonKodex/blob/output/github-contribuition-grid-snake.svg)
-</div>
+
